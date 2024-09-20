@@ -1,4 +1,4 @@
-# 📚HMM-POS-Tagger
+# HMM-POS-Tagger
 Part of Speech(POS) Tagger using Hidden Markov Model
 
 ---
